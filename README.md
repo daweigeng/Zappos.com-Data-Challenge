@@ -1,2 +1,2 @@
 # Zappos.com-Data-Challenge
-Zappos.com Project
+Three Data Science Projects for Zappos.com, online shoe store(owned by Amazon)
